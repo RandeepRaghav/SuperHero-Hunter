@@ -1,6 +1,6 @@
 # SuperHero-Hunter
 
-In this proect, I've created a Superhero Search App using the Fetch API in JavaScript, along with HTML and CSS. This project will allow users to search for superheroes and display their information using data retrieved from a superhero API.
+In this project, I've created a Superhero Search App using the Fetch API in JavaScript, along with HTML and CSS. This project will allow users to search for superheroes and display their information using data retrieved from a superhero API.
 
 To start, first set up the development environment by creating the necessary HTML structure and linking the CSS and JavaScript files.
 
